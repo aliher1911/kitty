@@ -484,12 +484,12 @@ typedef enum {
  *
  *  If this bit is set one or more Alt keys were held down.
  */
-#define GLFW_MOD_CONTROL         0x0004
+#define GLFW_MOD_CONTROL         0x0008
 /*! @brief If this bit is set one or more Super keys were held down.
  *
  *  If this bit is set one or more Super keys were held down.
  */
-#define GLFW_MOD_SUPER           0x0008
+#define GLFW_MOD_SUPER           0x0004
 /*! @brief If this bit is set one or more Hyper keys were held down.
  *
  *  If this bit is set one or more Hyper keys were held down.
